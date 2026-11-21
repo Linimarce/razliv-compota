@@ -12,14 +12,13 @@
 Обучение проводилось на 200 000 эпизодов.
 
 ### Кривые обучения
-![Кривые обучения] <img width="1740" height="818" alt="1_learning_curves" src="https://github.com/user-attachments/assets/fbf0e6e9-aa52-41c9-a54f-118585552e53" />
+<img width="1740" height="818" alt="1_learning_curves" src="https://github.com/user-attachments/assets/fbf0e6e9-aa52-41c9-a54f-118585552e53" />
 
 
-### Пример решения (Траектория)
-![Таблица шагов] <img width="1192" height="324" alt="2_trajectory_table" src="https://github.com/user-attachments/assets/58f22d6d-b865-4cc1-b75b-e209c28fe231" />
-
-### Анимация решения
-![Анимация] <img width="800" height="500" alt="4_animation" src="https://github.com/user-attachments/assets/52f5600e-c778-4098-bbfa-f9e0348820fc" />
+### Примеры решения 
+<img width="571" height="439" alt="image" src="https://github.com/user-attachments/assets/76d1f1be-da29-4e9a-a56a-f1d645eec5f0" />
+<img width="1192" height="324" alt="2_trajectory_table" src="https://github.com/user-attachments/assets/58f22d6d-b865-4cc1-b75b-e209c28fe231" />
+<img width="800" height="500" alt="4_animation" src="https://github.com/user-attachments/assets/52f5600e-c778-4098-bbfa-f9e0348820fc" />
 
 
 
